@@ -29,8 +29,9 @@
 -- 꾸미기 기능<br>
 
 #### 시장조사
-App Store<br>
 "루틴" 키워드 검색<br>
+
+App Store<br>
 - 루티너리
 - 그로우
 - DayStamp
