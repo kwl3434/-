@@ -4,8 +4,8 @@
 가상의 캐릭터와 함께 실제로 성장해나가는 자신의 모습을 보고 성취감을 느낄 수 있는 어플
 
 * [기획](https://github.com/kwl3434/RoutinePlay/wiki/%EA%B8%B0%ED%9A%8D)
-* [요구분석](https://github.com/kwl3434/RoutinePlay/wiki/%EC%9A%94%EA%B5%AC-%EB%B6%84%EC%84%9D)
-* [설계](https://github.com/kwl3434/RoutinePlay/wiki/%EC%84%A4%EA%B3%84)
+* [요구사항 명세](https://github.com/kwl3434/RoutinePlay/wiki/%EC%9A%94%EA%B5%AC-%EC%82%AC%ED%95%AD-%EB%AA%85%EC%84%B8)
+* [설계 명세](https://github.com/kwl3434/RoutinePlay/wiki/%EC%84%A4%EA%B3%84-%EB%AA%85%EC%84%B8)
 * [개발 환경](https://github.com/kwl3434/RoutinePlay/wiki/%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD)
 * [테스트](https://github.com/kwl3434/RoutinePlay/wiki/%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
